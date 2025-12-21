@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Let's Go With...",
+  "base_artist": "アスナ(CV:長谷川育美)、キララ(CV:山下七海)、スバル(CV:天海由梨奈)、ミカ(CV:東山奈央)、ミヨ(CV:花岩香奈)、ユカリ(CV:村上まなつ)",
+  "createdAt": "2025-12-21T13:53:27.303884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come On, Let's Go (with Nigo)",
+      "artist": "Tyler, The Creator feat. Nigo",
+      "has_synced": true,
+      "path": "select/01_Come_On,_Let's_Go_(with_Nigo)_Tyler,_The_Creator_feat._Nigo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come On, Let's Go (with Nigo)",
+      "artist": "Tyler, The Creator/Nigo",
+      "has_synced": true,
+      "path": "select/02_Come_On,_Let's_Go_(with_Nigo)_Tyler,_The_Creator_Nigo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come On, Let's Go (with Nigo)",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/03_Come_On,_Let's_Go_(with_Nigo)_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Let's Go - With Chorus",
+      "artist": "Joe Hisaishi",
+      "has_synced": true,
+      "path": "select/04_Hey_Let's_Go_-_With_Chorus_Joe_Hisaishi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Let's Go - With Chorus",
+      "artist": "Azumi Inoue",
+      "has_synced": true,
+      "path": "select/05_Hey_Let's_Go_-_With_Chorus_Azumi_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey Let’s Go - With Chorus",
+      "artist": "Joe Hisaishi & Azumi Inoue",
+      "has_synced": true,
+      "path": "select/06_Hey_Let’s_Go_-_With_Chorus_Joe_Hisaishi_&_Azumi_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Let’s Go - With Chorus",
+      "artist": "Hisaishi, Joe & Azumi Inoue",
+      "has_synced": true,
+      "path": "select/07_Hey_Let’s_Go_-_With_Chorus_Hisaishi,_Joe_&_Azumi_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey Let's Go - With Chorus",
+      "artist": "Azumi Inoue, Suginami Children's Choir",
+      "has_synced": true,
+      "path": "select/08_Hey_Let's_Go_-_With_Chorus_Azumi_Inoue,_Suginami_Children's_Choir.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey Let’s Go - With Chorus",
+      "artist": "Azumi Inoue feat. Suginami Junior Chorus",
+      "has_synced": true,
+      "path": "select/09_Hey_Let’s_Go_-_With_Chorus_Azumi_Inoue_feat._Suginami_Junior_Chorus.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Let’s Go - With Chorus",
+      "artist": "Azumi Inoue feat. Suginami Children’s Choir",
+      "has_synced": true,
+      "path": "select/10_Hey_Let’s_Go_-_With_Chorus_Azumi_Inoue_feat._Suginami_Children’s_Choir.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey Let’s Go - With Chorus",
+      "artist": "Inoue, Azumi feat. Suginami Jidō Gasshōdan",
+      "has_synced": true,
+      "path": "select/11_Hey_Let’s_Go_-_With_Chorus_Inoue,_Azumi_feat._Suginami_Jidō_Gasshōdan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let's Go (with Skinny Flex)",
+      "artist": "Elpatron970",
+      "has_synced": true,
+      "path": "select/12_Let's_Go_(with_Skinny_Flex)_Elpatron970.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Let's Go (with Chorus)",
+      "artist": "Azumi Inoue",
+      "has_synced": true,
+      "path": "select/13_Hey_Let's_Go_(with_Chorus)_Azumi_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "さんぽ : Hey Let's Go - With Chorus",
+      "artist": "Azumi Inoue, Suginami Children's Choir (井上あずみ, 杉並児童合唱団)",
+      "has_synced": true,
+      "path": "select/14_さんぽ___Hey_Let's_Go_-_With_Chorus_Azumi_Inoue,_Suginami_Children's_Choir_(井上あずみ,_杉並児童合唱団).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey Let’s Go - With Chorus",
+      "artist": "Joe Hisaishi",
+      "has_synced": true,
+      "path": "select/15_Hey_Let’s_Go_-_With_Chorus_Joe_Hisaishi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Come On, Let's Go (with Nigo)",
+      "artist": "Nigo",
+      "has_synced": true,
+      "path": "select/16_Come_On,_Let's_Go_(with_Nigo)_Nigo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Let's Go with a Smile",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/17_Let's_Go_with_a_Smile_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hey, Let's Go (With Chorus)",
+      "artist": "Joe Hisaishi & Azumi Inoue",
+      "has_synced": true,
+      "path": "select/18_Hey,_Let's_Go_(With_Chorus)_Joe_Hisaishi_&_Azumi_Inoue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let's Go With...",
+      "artist": "アスナ(CV:長谷川育美)、キララ(CV:山下七海)、スバル(CV:天海由梨奈)、ミカ(CV:東山奈央)、ミヨ(CV:花岩香奈)、ユカリ(CV:村上まなつ)",
+      "has_synced": false,
+      "path": "select/pl_01_Let's_Go_With..._アスナ(CV_長谷川育美)、キララ(CV_山下七海)、スバル(CV_天海由梨奈)、ミカ(CV_東山奈央)、ミヨ(CV_花岩香奈)、ユカリ(CV_村上まなつ).txt"
+    }
+  ]
+}
